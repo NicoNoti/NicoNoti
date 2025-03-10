@@ -1,5 +1,6 @@
 👋 Bienvenue sur mon profil GitHub !
-À propos de moi
+
+👀 À propos de moi
 Je suis un développeur passionné, titulaire d'une Licence en Mathématiques Appliquées et Informatique, avec une spécialisation en Génie Logiciel. J'aime créer des applications web dynamiques et je me concentre particulièrement sur le développement backend. Actuellement, je perfectionne mes compétences en Python, Java, et PHP.
 
 🌱 Compétences principales
