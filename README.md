@@ -1,12 +1,20 @@
-- 👋 Hello, I'm @NicoNoti
+👋 Bienvenue sur mon profil GitHub !
+À propos de moi
+Je suis un développeur passionné, titulaire d'une Licence en Mathématiques Appliquées et Informatique, avec une spécialisation en Génie Logiciel. J'aime créer des applications web dynamiques et je me concentre particulièrement sur le développement backend. Actuellement, je perfectionne mes compétences en Python, Java, et PHP.
 
-- 👀 I am focused on developing dynamic web applications and am actively learning Python, Java, and PHP.
+🌱 Compétences principales
+Développement d'applications web : Conception et implémentation de solutions backend, optimisation des performances.
+Technologies maîtrisées : Python, Java, PHP, Django, SQL, et gestion de version avec Git.
+Design de bases de données : Conception de schémas, optimisation des requêtes SQL, gestion des bases de données relationnelles.
 
-- 🌱 Currently, I am in my third year of computer science with a specialization in software engineering.
+💡 Ce que je recherche
+Je suis à la recherche de projets où je peux mettre à profit mes compétences en développement logiciel et travailler sur des solutions techniques innovantes. Travailler en équipe et apprendre de nouvelles technologies fait partie de mes motivations principales.
 
-- 💞️ I am passionate about collaborating on projects where I can apply my skills in programming and database design.
+📫 Me contacter
+Si vous souhaitez échanger, collaborer, ou discuter de projets, n'hésitez pas à me contacter via :
 
-- 📫 Feel free to reach out to me via email at nrarivolala@gmail.com or WhatsApp at +261 33 71 244 38.
+Email : nrarivolala@gmail.com et rarivolalanotiavinanicolas@gmail.com
+WhatsApp : +261 33 71 244 38
 <!---
 NicoNoti/NicoNoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
