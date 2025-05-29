@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=450&lines=Fullstack+Developer+%7C+Backend+Enthusiast;Always+Learning+New+Technologies;Passionate+About+Software+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=Fullstack+Developer+%7C+Backend+Enthusiast;Always+Learning+New+Technologies;Passionate+About+Software+Engineering" alt="Typing Animation" />
 </p>
 
 ---
@@ -17,29 +17,8 @@ Currently, I'm sharpening my skills in **Python**, **Java**, **PHP**, and **Java
 
 ## 🚀 Tech Stack
 
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,php,java,javascript,html,css,tailwind,git,github,vscode,mysql" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -56,7 +35,7 @@ I'm always excited to learn, build, and grow with passionate people in the tech 
 
 ## 📫 Contact Me
 
-<p>
+<p align="center">
   <a href="mailto:nrarivolala@gmail.com">
     <img src="https://img.shields.io/badge/Email-nrarivolala@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
