@@ -18,18 +18,18 @@ Currently, I'm sharpening my skills in **Python**, **Java**, **PHP**, and **Java
 ## 🚀 Tech Stack
 
 ### 🧠 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,java,js" alt="Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,java,js" alt="Languages" alt="Typing Animation"/>
 </p>
 
 ### ⚙️ Backend Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,laravel" alt="Backend Frameworks" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel" alt="Backend Frameworks" alt="Typing Animation"/>
 </p>
 
 ### 🎨 Frontend & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend & Frameworks" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend & Frameworks" alt="Typing Animation"/>
 </p>
 
 ---
