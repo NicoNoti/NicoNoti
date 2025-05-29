@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=Fullstack+Developer+%7C+Backend+Enthusiast;Always+Learning+New+Technologies;Passionate+About+Software+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=Fullstack+Developer+%7C+Backend+Enthusiast+%7C+Frontend+Enthusiast;Always+Learning+New+Technologies;Passionate+About+Software+Engineering" alt="Typing Animation" />
 </p>
 
 ---
@@ -11,23 +11,34 @@
 I'm a passionate developer with a background in **Software Engineering**, focused on **web** and **application development**.  
 I enjoy creating practical and efficient digital solutions that solve real-world problems.
 
-Currently, I'm sharpening my skills in **Python**, **Java**, **PHP**, and **JavaScript**, while also exploring modern tools like **Tailwind CSS** and robust frameworks like **Django**.
+Currently, I'm sharpening my skills in **Python**, **Java**, **PHP**, and **JavaScript**, while also exploring modern tools like **Tailwind CSS**, **React.js**, and robust frameworks like **Django** and **Laravel**.
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,java,javascript,html,css,tailwind,git,github,vscode,mysql" alt="Tech Stack Icons" />
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,java,js" alt="Languages" />
+</p>
+
+### ⚙️ Backend Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel" alt="Backend Frameworks" />
+</p>
+
+### 🎨 Frontend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend & Frameworks" />
 </p>
 
 ---
 
 ## 🤝 Open To
 
-- **Collaborations**
-- **Open-source contributions**
-- **Freelance or professional opportunities**
+- 💡 **Collaborations**
+- 🌍 **Open-source contributions**
+- 💼 **Freelance or professional missions**
 
 I'm always excited to learn, build, and grow with passionate people in the tech community.
 
@@ -35,15 +46,15 @@ I'm always excited to learn, build, and grow with passionate people in the tech 
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:nrarivolala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nrarivolala@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="mailto:nrarivolala@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" />
   </a>
   <a href="https://wa.me/261337124438" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" title="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100008875758531" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Visit_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" title="Facebook" />
   </a>
 </p>
 
@@ -62,5 +73,5 @@ I'm always excited to learn, build, and grow with passionate people in the tech 
 ---
 
 <p align="center">
-  Thanks for stopping by! Feel free to explore my repositories and reach out 🤝
+  🚀 Thanks for visiting! Feel free to explore my repositories and get in touch.
 </p>
