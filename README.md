@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=Fullstack+Developer;Backend+Enthusiast;Frontend+Enthusiast;Always+Learning+New+Technologies;Software+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=10B981&center=true&vCenter=true&width=500&height=60&lines=Fullstack+Developer;Backend+Enthusiast;Frontend+Explorer;Always+Learning+New+Tech;Software+Engineering+Passionate" alt="Typing Animation" />
 </p>
 
 ---
